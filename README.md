@@ -1,6 +1,5 @@
 # 👩🏻‍💻404 Effect
 Um projeto simples, criado para transformar caracteres aleatórios em uma mensagem:'404 NOT FOUND'.
-![Image](https://github.com/user-attachments/assets/a61d4edb-ad0b-486e-8295-a71a142657fd)
 
 ## 🎯 Funcionalidades:
 - Estilo visual inspirado na estética do filme Matrix, com cores verde e preto.
@@ -29,3 +28,5 @@ São sempre bem-vindas! Se você tiver alguma ideia ou sugestão de melhoria, fi
 
 ## 📄 Licença
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Image](https://github.com/user-attachments/assets/a61d4edb-ad0b-486e-8295-a71a142657fd)
