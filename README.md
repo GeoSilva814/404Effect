@@ -16,8 +16,8 @@ Um projeto simples, criado para transformar caracteres aleatórios em uma mensag
 - Código baseado no projeto de Rahul do StackFindOver:https://youtu.be/0EdkfAAFwEA?si=9cwVqKMdSNdbFE3G
 
 ## ⚙️Como Executar:
-- Certifique de ter um navegador web instalado (Google Chrome, Firefox, etc.). Faça o donwload da pasta, extraia os arquivos e abra o "index.html" clicando duas vezes sobre ele.
-- Clone este repositório:https://github.com/GeoSilva814/404Effect.git
+- Certifique de ter um navegador web instalado (Google Chrome, Firefox, etc.).Então, abra o seguinte link: https://geosilva814.github.io/404Effect/
+- Clone este repositório: https://github.com/GeoSilva814/404Effect.git
 
 ## 📌Observações:
 Este projeto pode ser customizado e aprimorado.
